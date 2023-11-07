@@ -46,7 +46,7 @@ Coders will:
 - Written material that helps in understanding, using, and debugging the code.
 - Essential for collaboration among coders.
 
-#### Code Nation Coding Guides
+#### [Code Nation Coding Guides](https://github.com/itscodenation/int-guides-23-24)
 - A resource to look up syntax and examples of HTML tags and CSS properties.
 
 #### W3Schools
